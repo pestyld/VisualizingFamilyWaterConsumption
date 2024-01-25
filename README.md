@@ -8,3 +8,7 @@ Check out the blog for more information: https://blogs.sas.com/content/graphical
 ## Requirements
 - This code will run on SAS9 or SAS Viya
 - (future enhancement) Will create Python code to replicate.
+
+
+### Monthly Water Usage
+![monthly water usage](https://raw.githubusercontent.com/pestyld/VisualizingFamilyWaterConsumption/main/monthly_water_usage/Water_Usage_MonthlyFinal.png)
